@@ -61,7 +61,7 @@ https://itunes.apple.com/by/app/spektr/id1024940689?mt=8
 https://itunes.apple.com/by/app/novosti-lenta.ru-neoficial/id975805914?mt=8 
 
 ### MoonCalendar (December 2014 – December 2014)
-*Mobile application development. I created a new English version and bugs fixes. *
+*Mobile application development. I created a new English version and bugs fixes.*
 https://itunes.apple.com/ru/app/lunnyj-kalendar-2015/id948196885?mt=8
 
 ### «Здесь не курят. Сообщите о нарушениях антитабачного закона» (Smoke-Free) (September 2014 – present time)
