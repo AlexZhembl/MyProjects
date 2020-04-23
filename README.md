@@ -38,13 +38,13 @@
 ### [Spektr (August 2015 - August 2015)](https://itunes.apple.com/by/app/spektr/id1024940689?mt=8)
 *Application to vote through social networks. I had created a mobile application and a server on Parse.com. Provide social-network sharing.*
 
-### [BigSmallWedding (July 2015 – August 2015)]
+### BigSmallWedding (July 2015 – August 2015)
 *Mobile application for wedding people. I created a mobile app, server app on Parse and website for administrator also on Parse.com*
 
-### [Hamleys (March 2015 - July 2015)]
+### Hamleys (March 2015 - July 2015)
 *Application for parents and Hamleys company. Use technology of iBeacons. My role was ios developer and support*
 
-### Lenta.ru (February 2015 – March 2015)](https://itunes.apple.com/by/app/novosti-lenta.ru-neoficial/id975805914?mt=8 )
+### [Lenta.ru (February 2015 – March 2015)](https://itunes.apple.com/by/app/novosti-lenta.ru-neoficial/id975805914?mt=8 )
 *Fast and free application for reading news online newspaper Lenta.ru. For this app I created a Sinatra server with logic for parsing.*
 
 ### [MoonCalendar (December 2014 – December 2014)](https://itunes.apple.com/ru/app/lunnyj-kalendar-2015/id948196885?mt=8)
