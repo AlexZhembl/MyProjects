@@ -2,7 +2,7 @@
 
 ## On this page you can learn about the projects, the creation of which I was directly involved
 
-### SCG App  (January 2019 - Present time)
+### SCG App  (January 2019 - April 2019)
 *The official mobile app of the Sydney Cricket Ground. Lightweighting app with stats and local bonus sistem. Provide live cams and interactive map features.*
 https://itunes.apple.com/au/app/scg-app/id1445394026?mt=8
 
