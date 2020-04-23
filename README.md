@@ -10,7 +10,7 @@ The official mobile app of the Sydney Cricket Ground. Lightweighting app with st
 The official Paris Saint-Germain App. My part here is to provide in-app chat for member and beacon solutions for stadion navigation.
 
 #### 4. [Roland-Garros Official (May 2018 - October 2018)](https://itunes.apple.com/us/app/roland-garros-official/id1371584793?mt=8)
-*All ROLAND-GARROS in a single app. Direct access to tickets, ticketing services, news and map of the stadium, pre-order of meal.*
+All ROLAND-GARROS in a single app. Direct access to tickets, ticketing services, news and map of the stadium, pre-order of meal.
 
 #### 5. [Paris La Défense Arena (Jule 2018 - September 2018)](https://itunes.apple.com/us/app/paris-la-défense-arena/id1296195165?mt=8)
 Colored and nice-to-use concert stadium app. Allow to see events infos, book tickets and live updates.
