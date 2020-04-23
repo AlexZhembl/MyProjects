@@ -3,7 +3,7 @@
 ## On this page you can learn about the projects, the creation of which I was directly involved
 
 ### [SCG App  (January 2019 - April 2019)](https://itunes.apple.com/au/app/scg-app/id1445394026?mt=8)
-*The official mobile app of the Sydney Cricket Ground. Lightweighting app with stats and local bonus sistem. Provide live cams and interactive map features.*
+The official mobile app of the Sydney Cricket Ground. Lightweighting app with stats and local bonus sistem. Provide live cams and interactive map features.
 
 ### [PSG Official (June 2018 - April 2019)](https://itunes.apple.com/us/app/psg-official/id515968212?mt=8)
 *The official Paris Saint-Germain App. My part here is to provide in-app chat for member and beacon solutions for stadion navigation.*
@@ -14,7 +14,7 @@
 ### [Paris La Défense Arena (Jule 2018 - September 2018)](https://itunes.apple.com/us/app/paris-la-défense-arena/id1296195165?mt=8)
 *Colored and nice-to-use concert stadium app. Allow to see events infos, book tickets and live updates.*
 
-### [Toud-de-Franse (April 2018 - Jule 2018)](https://itunes.apple.com/gb/app/tdf-2018-presented-by-škoda/id537634796?mt=8)
+### [Tour-de-Franse (April 2018 - Jule 2018)](https://itunes.apple.com/gb/app/tdf-2018-presented-by-škoda/id537634796?mt=8)
 *This application for cycling fans. Shows stats and live streams. Also live riders positions.*
 
 ### [Stade de France® Foot & Rugby (January 2017 - April 2018)](https://itunes.apple.com/us/app/stade-de-france-foot-rugby/id819305607?mt=8)
