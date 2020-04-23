@@ -1,12 +1,12 @@
 ##### On this page you can learn about the projects, the creation of which I was directly involved
 
-#### [SCG App  (January 2019 - April 2019)](https://itunes.apple.com/au/app/scg-app/id1445394026?mt=8)
+#### 1. [SCG App  (January 2019 - April 2019)](https://itunes.apple.com/au/app/scg-app/id1445394026?mt=8)
 The official mobile app of the Sydney Cricket Ground. Lightweighting app with stats and local bonus sistem. Provide live cams and interactive map features.
 
-#### [PSG Official (June 2018 - April 2019)](https://itunes.apple.com/us/app/psg-official/id515968212?mt=8)
+#### 2. [PSG Official (June 2018 - April 2019)](https://itunes.apple.com/us/app/psg-official/id515968212?mt=8)
 The official Paris Saint-Germain App. My part here is to provide in-app chat for member and beacon solutions for stadion navigation.
 
-#### [Roland-Garros Official (May 2018 - October 2018)](https://itunes.apple.com/us/app/roland-garros-official/id1371584793?mt=8)
+#### 3. [Roland-Garros Official (May 2018 - October 2018)](https://itunes.apple.com/us/app/roland-garros-official/id1371584793?mt=8)
 *All ROLAND-GARROS in a single app. Direct access to tickets, ticketing services, news and map of the stadium, pre-order of meal.*
 
 #### [Paris La Défense Arena (Jule 2018 - September 2018)](https://itunes.apple.com/us/app/paris-la-défense-arena/id1296195165?mt=8)
