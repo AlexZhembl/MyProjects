@@ -1,7 +1,7 @@
 ##### On this page you can learn about the projects, the creation of which I was directly involved
 
 #### 1. [Viber Messenger (April 2019 - present time)](https://apps.apple.com/us/app/viber-messenger-chats-calls/id382617920)
-Secure messaging and calling app. 
+Secure messaging and calling app. Working on quality demanding UX. Improving technical performance of the app. Implementing of architecture decisions, working process maintenance. Leading for working solutions, introduction of new employees. Developing libraries for inner usage 
 
 #### 2. [SCG App (January 2019 - April 2019)](https://itunes.apple.com/au/app/scg-app/id1445394026?mt=8)
 The official mobile app of the Sydney Cricket Ground. Lightweighting app with stats and local bonus sistem. Provide live cams and interactive map features.
