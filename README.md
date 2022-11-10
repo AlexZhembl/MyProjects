@@ -1,4 +1,4 @@
-##### On this page you can learn about the projects, the creation of which I was directly involved
+#### On this page you can learn about the projects, the creation of which I was directly involved
 ###### PS. Here are my electronic-hobby projects: [TelegramEspBarrierMeter](https://github.com/AlexZhembl/TelegramEspBarrierMeter) and [ESP_CO2_CLOUD](https://github.com/AlexZhembl/ESP_CO2_CLOUD)
 
 #### 1. [MyEE app (April 2020 - 2022)](https://apps.apple.com/gb/app/my-ee/id567457151)
