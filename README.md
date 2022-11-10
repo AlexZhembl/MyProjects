@@ -1,5 +1,5 @@
 ##### On this page you can learn about the projects, the creation of which I was directly involved
-## PS. Here are my electronic-hobby projects: [TelegramEspBarrierMeter](https://github.com/AlexZhembl/TelegramEspBarrierMeter) and [ESP_CO2_CLOUD](https://github.com/AlexZhembl/ESP_CO2_CLOUD)
+###### PS. Here are my electronic-hobby projects: [TelegramEspBarrierMeter](https://github.com/AlexZhembl/TelegramEspBarrierMeter) and [ESP_CO2_CLOUD](https://github.com/AlexZhembl/ESP_CO2_CLOUD)
 
 #### 1. [MyEE app (April 2020 - 2022)](https://apps.apple.com/gb/app/my-ee/id567457151)
 Famous BT mobile operator's app created for complete control and all the help users need with services. Providing solution architecture, Leading development team across different countries, being responsible for the performance for 10+ million users.
